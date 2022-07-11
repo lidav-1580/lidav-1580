@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lidav-1580
 - 👀 I’m interested in SQL scripting/Business Intelligence
-- 🌱 I’m currently learning SSIS
-- 💞️ I’m looking to collaborate on MS SQL Scripting
+- 🌱 I’m currently learning SSIS,Data Analytics & Reports
+- 💞️ I’m looking to collaborate on MS SQL Scripting,Data Analytics & Reporting
 - 📫 How to reach me ...
 
 <!---
